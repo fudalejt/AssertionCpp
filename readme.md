@@ -5,3 +5,4 @@ List can:
 1) add new element with checking that the value is in boundaries
 2) display the list with in both directions
 3) be removing
+4) give his size
